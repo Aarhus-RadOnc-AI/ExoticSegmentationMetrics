@@ -1,2 +1,4 @@
-# ExoticSegmentationMetrics
-Implementations of non-standard segmentation metrics
+# Exotic Segmentation Metrics
+## Content
+- Added Path Length
+- Z slice deviations
